@@ -1,2 +1,2 @@
 # Mumbai-_HHP
-Prediction of house prices Mumbai location.
+Prediction of house prices of Mumbai location.
