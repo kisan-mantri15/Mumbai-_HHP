@@ -1,0 +1,5 @@
+print("Explorataory Data Analysis ")
+
+ from sklearn.preprocessing import OneHotEncoder
+ from seaborn as sns
+ 
